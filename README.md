@@ -1,74 +1,68 @@
 
-<!--
-  ROMAN KOSTETSKYY | KOSTEX.DEV
-  GitHub Profile README
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080612,35:21134D,70:7047EB,100:0A0815&text=ROMAN&fontColor=FFFFFF&fontSize=90&fontAlignY=43&desc=KOSTEX.DEV%20%2F%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=63&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Roman — Kostex Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:07141C,50:103D46,100:00BFA5&text=ROMAN&fontSize=90&fontColor=F4FFFF&fontAlignY=43&desc=KOSTETSKYY%20%2F%20DEVELOPER&descSize=17&descAlignY=67&animation=fadeIn" width="100%" alt="Roman Kostetskyy"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Turning+ideas+into+real+products.;Full-Stack+Development+%7C+IoT;Code.+Create.+Innovate." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00E5C3&center=true&vCenter=true&width=650&lines=FULL-STACK+DEVELOPER;BUILDING+DIGITAL+PRODUCTS;INTERNET+OF+THINGS;THINK.+BUILD.+INNOVATE." alt="Developer typing animation"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://kostex.vercel.app">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WEBSITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+<img src="https://img.shields.io/badge/EXPLORE_KOSTEX-00D6B5?style=for-the-badge&logo=vercel&logoColor=07141C" />
 </a>
-<a href="https://github.com/Kostex-dev">
-  <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/Kostex-dev?tab=repositories">
+<img src="https://img.shields.io/badge/MY_REPOSITORIES-172630?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:kostetskyy08@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-172630?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kostex-dev&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=flat-square" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=Kostex-dev&style=for-the-badge&color=00BFA5&label=REAL+PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## ABOUT ME
+## 01 / INTRODUCTION
 
-**I don't just write code. I build things that make ideas real.**
+### Hey, I'm Roman.
 
-</div>
+I'm a Full-Stack Developer and an Internet of Things student at **Lviv Polytechnic National University**.
 
-I'm Roman, a developer and Internet of Things student at **Lviv Polytechnic National University**, based in Ukraine.
+I enjoy building modern digital products, exploring new technologies and transforming ideas into working applications.
 
-I enjoy turning concepts into functional digital products — from modern web interfaces to full-stack applications and connected systems.
+I believe that good software is not only about code. It's about the experience people get from using it.
 
-My focus is on writing clean code, exploring new technologies and creating experiences that combine functionality with thoughtful design.
+</td>
+<td width="42%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,postgres,mongodb,docker,git,linux&perline=4&theme=dark" width="100%" alt="Technologies"/>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**LOCATION**
 
-**01 / WHO I AM**
+Lviv, Ukraine 🇺🇦
 
-- 🎓 Internet of Things student
-- 📍 Lviv, Ukraine 🇺🇦
-- 💻 Full-Stack Developer
-- 🚀 Digital product enthusiast
+**EDUCATION**
 
-</td>
-<td width="50%" valign="top">
+Lviv Polytechnic
 
-**02 / WHAT I DO**
+**FOCUS**
 
-- 🌐 Web development
-- ⚡ Interactive interfaces
-- 🧩 Application development
-- 🔌 IoT experiments
+Full-Stack / IoT
+
+**STATUS**
+
+Open to opportunities
 
 </td>
 </tr>
@@ -78,73 +72,84 @@ My focus is on writing clean code, exploring new technologies and creating exper
 
 <div align="center">
 
-## TECH STACK
+## 02 / WHAT I DO
 
-*Tools I use to turn ideas into products.*
+*From concept to implementation.*
 
 </div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🌐
+
+**WEB DEVELOPMENT**
+
+Modern websites and web applications with attention to usability and performance.
+
+</td>
+<td width="33%" align="center">
+
+### ⚡
+
+**DIGITAL PRODUCTS**
+
+Building practical solutions, interfaces and applications.
+
+</td>
+<td width="33%" align="center">
+
+### 🔌
+
+**IoT & TECHNOLOGY**
+
+Exploring connected devices, embedded systems and new technologies.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 03 / TECHNOLOGY STACK
+
+*The tools behind my work.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **01 — FRONTEND**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
-**02 — BACKEND & DATABASE**
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,firebase&theme=dark" alt="Backend technologies"/>
-</p>
+**02 — BACKEND & DATA**
 
-**03 — TOOLS & ENVIRONMENT**
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,firebase&theme=dark" alt="Backend"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark" alt="Development tools"/>
-</p>
-
----
-
-<div align="center">
-
-## FEATURED PROJECT
-
-*One project. Built with purpose.*
-
-<br/>
-
-</div>
-
-<table>
+</td>
+</tr>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-<div align="center">
+**03 — TOOLS**
 
-<a href="https://kostex.vercel.app">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" alt="Tools"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:17102B,50:39217A,100:17102B&text=KOSTEX&fontSize=55&fontColor=FFFFFF&fontAlignY=48&desc=DIGITAL%20PRODUCTS%20STUDIO&descSize=13&descAlignY=75" width="100%" alt="KOSTEX"/>
+</td>
+<td width="50%" valign="top">
 
-</a>
+**04 — EXPLORING**
 
-### KOSTEX — Digital Products Studio
-
-A project focused on creating modern digital experiences and turning ideas into functional products.
-
-**STACK**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind&theme=dark" alt="KOSTEX tech stack"/>
-
-<br/><br/>
-
-<a href="https://kostex.vercel.app">
-<img src="https://img.shields.io/badge/VISIT%20LIVE%20WEBSITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit KOSTEX"/>
-</a>
-
-<a href="https://github.com/Kostex-dev">
-<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,python&theme=dark" alt="Exploring"/>
 
 </td>
 </tr>
@@ -154,73 +159,109 @@ A project focused on creating modern digital experiences and turning ideas into 
 
 <div align="center">
 
-## GITHUB ANALYTICS
+## 04 / SELECTED PROJECT
 
-*Numbers tell a story. Every contribution is a step forward.*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:08171D,50:075B59,100:00D6B5&text=KOSTEX&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=DIGITAL%20PRODUCTS%20STUDIO&descSize=16&descAlignY=75" width="100%" alt="KOSTEX Digital Products Studio"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kostex-dev&show_icons=true&hide_border=true&bg_color=0B0914&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E0EB&rank_icon=github" alt="GitHub statistics"/>
+### KOSTEX — Digital Products Studio
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostex-dev&layout=compact&hide_border=true&bg_color=0B0914&title_color=A78BFA&text_color=E2E0EB&langs_count=8" alt="Most used languages"/>
+**Turning ideas into digital experiences.**
+
+A project focused on modern digital products, websites, web applications and custom solutions.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&theme=dark" alt="KOSTEX technologies"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Kostex-dev&theme=transparent&hide_border=true&background=0B0914&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E2E0EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=77717F" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kostex-dev&bg_color=0B0914&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## BEYOND THE CODE
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0B0914,50:28154D,100:0B0914&text=THINK%20%2F%20BUILD%20%2F%20REPEAT&fontColor=FFFFFF&fontSize=23&fontAlignY=50" width="100%" alt="Think Build Repeat"/>
-
-<br/>
-
-I believe great products start with curiosity, grow through experimentation and become reality through consistent work.
-
-**Always learning. Always building. Always improving.**
-
-</div>
-
----
-
-<div align="center">
-
-## LET'S CONNECT
-
-*Have an idea, a project or just want to talk about technology?*
-
-<br/>
-
-<a href="mailto:kostetskyy08@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://t.me/Romchic24">
-<img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
 <a href="https://kostex.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-00D6B5?style=for-the-badge&logo=vercel&logoColor=07141C" alt="Live project"/>
 </a>
+
 <a href="https://github.com/Kostex-dev">
-<img src="https://img.shields.io/badge/GITHUB-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/MORE_ON_GITHUB-172630?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 05 / GITHUB INSIGHTS
+
+*Real activity. Real progress.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kostex-dev&show_icons=true&hide_border=true&bg_color=0B151C&title_color=00D6B5&icon_color=00D6B5&text_color=E3EDF2&rank_icon=github" alt="GitHub stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostex-dev&layout=compact&hide_border=true&bg_color=0B151C&title_color=00D6B5&text_color=E3EDF2&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080612,45:38206F,75:7047EB,100:080612&height=150&section=footer" width="100%" alt="Footer"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Kostex-dev&theme=dark&hide_border=true&background=0B151C&ring=00D6B5&fire=00D6B5&currStreakLabel=00D6B5&sideLabels=E3EDF2" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kostex-dev&bg_color=0B151C&color=00D6B5&line=00BFA5&point=FFFFFF&area=true&area_color=075B59&hide_border=true&custom_title=MY%20CONTRIBUTION%20TIMELINE" alt="Activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 06 / MY GITHUB WORLD
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kostex-dev&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 07 / LET'S CONNECT
+
+Have an interesting idea or want to collaborate?
+
+I'm always interested in technology, development and new challenges.
+
+<br/>
+
+<a href="mailto:kostetskyy08@gmail.com">✉️ Email</a>
+
+<a href="https://t.me/Romchic24">✈️ Telegram</a>
+
+<a href="https://kostex.vercel.app">🌐 Website</a>
+
+<a href="https://github.com/Kostex-dev">💻 GitHub</a>
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0A171E,50:075B59,100:00BFA5&text=KEEP%20BUILDING&fontSize=27&fontColor=FFFFFF&fontAlignY=45&desc=BETTER%20EVERY%20DAY&descSize=13&descAlignY=70" width="100%" alt="Keep building"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+**THINK. BUILD. INNOVATE.**
 
 <sub>© 2026 ROMAN KOSTETSKYY · KOSTEX.DEV</sub>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:00BFA5,50:075B59,100:07141C" width="100%" alt="Footer"/>
 
 </div>
