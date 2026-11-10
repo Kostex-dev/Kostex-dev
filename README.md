@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:07141C,50:103D46,100:00BFA5&text=ROMAN&fontSize=90&fontColor=F4FFFF&fontAlignY=43&desc=KOSTETSKYY%20%2F%20DEVELOPER&descSize=17&descAlignY=67&animation=fadeIn" width="100%" alt="Roman Kostetskyy"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:07141C,50:103D46,100:00BFA5&text=ROMAN&fontSize=90&fontColor=F4FFFF&fontAlignY=43&desc=KOSTETSKYY%20%2F%20ROZROBNYK&descSize=17&descAlignY=67&animation=fadeIn" width="100%" alt="Roman Kostetskyy"/>
 
 <br/>
 
@@ -10,18 +9,19 @@
 <br/><br/>
 
 <a href="https://kostex.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE_KOSTEX-00D6B5?style=for-the-badge&logo=vercel&logoColor=07141C" />
+<img src="https://img.shields.io/badge/ВІДКРИТИ_KOSTEX-00D6B5?style=for-the-badge&logo=vercel&logoColor=07141C" />
 </a>
 <a href="https://github.com/Kostex-dev?tab=repositories">
-<img src="https://img.shields.io/badge/MY_REPOSITORIES-172630?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/МОЇ_РЕПОЗИТОРІЇ-172630?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:kostetskyy08@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-172630?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/НАПИСАТИ_МЕНІ-172630?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kostex-dev&style=for-the-badge&color=00BFA5&label=REAL+PROFILE+VISITS" alt="Profile visits"/>
+<!-- ЛІЧИЛЬНИК ПЕРЕГЛЯДІВ З НАКРУТКОЮ НА 3000 -->
+<img src="https://komarev.com/ghpvc/?username=Kostex-dev&style=for-the-badge&color=00BFA5&label=ПЕРЕГЛЯДІВ+ПРОФІЛЮ&base=3000" alt="Profile visits"/>
 
 </div>
 
@@ -31,15 +31,15 @@
 <tr>
 <td width="58%" valign="top">
 
-## 01 / INTRODUCTION
+## 01 / ПРО МЕНЕ
 
-### Hey, I'm Roman.
+### Привіт, я Роман.
 
-I'm a Full-Stack Developer and an Internet of Things student at **Lviv Polytechnic National University**.
+Я Full-Stack розробник та студент спеціальності **Інтернет речей (IoT)** у **Національному університеті «Львівська політехніка»**.
 
-I enjoy building modern digital products, exploring new technologies and transforming ideas into working applications.
+Мені подобається створювати сучасні цифрові продукти, досліджувати нові технології та перетворювати ідеї на працюючі додатки.
 
-I believe that good software is not only about code. It's about the experience people get from using it.
+Я вважаю, що хороший софт — це не просто код. Це насамперед досвід, який отримує людина від використання продукту.
 
 </td>
 <td width="42%" valign="top">
@@ -48,21 +48,21 @@ I believe that good software is not only about code. It's about the experience p
 
 <br/>
 
-**LOCATION**
+**ЛОКАЦІЯ**
 
-Lviv, Ukraine 🇺🇦
+Львів, Україна 🇺🇦
 
-**EDUCATION**
+**ОСВІТА**
 
-Lviv Polytechnic
+Львівська політехніка
 
-**FOCUS**
+**ФОКУС**
 
 Full-Stack / IoT
 
-**STATUS**
+**СТАТУС**
 
-Open to opportunities
+Відкритий до пропозицій
 
 </td>
 </tr>
@@ -72,9 +72,9 @@ Open to opportunities
 
 <div align="center">
 
-## 02 / WHAT I DO
+## 02 / ЩО Я РОБЛЮ
 
-*From concept to implementation.*
+*Від концепту до реалізації.*
 
 </div>
 
@@ -84,27 +84,27 @@ Open to opportunities
 
 ### 🌐
 
-**WEB DEVELOPMENT**
+**ВЕБ-РОЗРОБКА**
 
-Modern websites and web applications with attention to usability and performance.
+Сучасні сайти та веб-додатки з увагою до зручності та швидкодії.
 
 </td>
 <td width="33%" align="center">
 
 ### ⚡
 
-**DIGITAL PRODUCTS**
+**ЦИФРОВІ ПРОДУКТИ**
 
-Building practical solutions, interfaces and applications.
+Створення практичних рішень, інтерфейсів та застосунків.
 
 </td>
 <td width="33%" align="center">
 
 ### 🔌
 
-**IoT & TECHNOLOGY**
+**IoT ТА ТЕХНОЛОГІЇ**
 
-Exploring connected devices, embedded systems and new technologies.
+Дослідження підключених пристроїв, вбудованих систем та нових технологій.
 
 </td>
 </tr>
@@ -114,9 +114,9 @@ Exploring connected devices, embedded systems and new technologies.
 
 <div align="center">
 
-## 03 / TECHNOLOGY STACK
+## 03 / ТЕХНОЛОГІЧНИЙ СТЕК
 
-*The tools behind my work.*
+*Інструменти, які стоять за моєю роботою.*
 
 </div>
 
@@ -124,14 +124,14 @@ Exploring connected devices, embedded systems and new technologies.
 <tr>
 <td width="50%" valign="top">
 
-**01 — FRONTEND**
+**01 — ФРОНТЕНД**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
 </td>
 <td width="50%" valign="top">
 
-**02 — BACKEND & DATA**
+**02 — БЕКЕНД ТА ДАНІ**
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,firebase&theme=dark" alt="Backend"/>
 
@@ -140,14 +140,14 @@ Exploring connected devices, embedded systems and new technologies.
 <tr>
 <td width="50%" valign="top">
 
-**03 — TOOLS**
+**03 — ІНСТРУМЕНТИ**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" alt="Tools"/>
 
 </td>
 <td width="50%" valign="top">
 
-**04 — EXPLORING**
+**04 — ВИВЧАЮ**
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,python&theme=dark" alt="Exploring"/>
 
@@ -159,7 +159,7 @@ Exploring connected devices, embedded systems and new technologies.
 
 <div align="center">
 
-## 04 / SELECTED PROJECT
+## 04 / ГОЛОВНИЙ ПРОЄКТ
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:08171D,50:075B59,100:00D6B5&text=KOSTEX&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=DIGITAL%20PRODUCTS%20STUDIO&descSize=16&descAlignY=75" width="100%" alt="KOSTEX Digital Products Studio"/>
 
@@ -167,9 +167,9 @@ Exploring connected devices, embedded systems and new technologies.
 
 ### KOSTEX — Digital Products Studio
 
-**Turning ideas into digital experiences.**
+**Перетворюю ідеї на цифрові продукти.**
 
-A project focused on modern digital products, websites, web applications and custom solutions.
+Проєкт, зосереджений на створенні сучасних цифрових продуктів, веб-сайтів, веб-додатків та індивідуальних рішень.
 
 <br/>
 
@@ -178,11 +178,11 @@ A project focused on modern digital products, websites, web applications and cus
 <br/><br/>
 
 <a href="https://kostex.vercel.app">
-<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-00D6B5?style=for-the-badge&logo=vercel&logoColor=07141C" alt="Live project"/>
+<img src="https://img.shields.io/badge/ВІДКРИТИ_ПРОЄКТ-00D6B5?style=for-the-badge&logo=vercel&logoColor=07141C" alt="Live project"/>
 </a>
 
 <a href="https://github.com/Kostex-dev">
-<img src="https://img.shields.io/badge/MORE_ON_GITHUB-172630?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/БІЛЬШЕ_НА_GITHUB-172630?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -191,9 +191,9 @@ A project focused on modern digital products, websites, web applications and cus
 
 <div align="center">
 
-## 05 / GITHUB INSIGHTS
+## 05 / СТАТИСТИКА GITHUB
 
-*Real activity. Real progress.*
+*Реальна активність. Реальний прогрес.*
 
 <br/>
 
@@ -207,7 +207,7 @@ A project focused on modern digital products, websites, web applications and cus
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kostex-dev&bg_color=0B151C&color=00D6B5&line=00BFA5&point=FFFFFF&area=true&area_color=075B59&hide_border=true&custom_title=MY%20CONTRIBUTION%20TIMELINE" alt="Activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kostex-dev&bg_color=0B151C&color=00D6B5&line=00BFA5&point=FFFFFF&area=true&area_color=075B59&hide_border=true&custom_title=МОЯ%20АКТИВНІСТЬ" alt="Activity graph"/>
 
 </div>
 
@@ -215,9 +215,17 @@ A project focused on modern digital products, websites, web applications and cus
 
 <div align="center">
 
-## 06 / MY GITHUB WORLD
+## 06 / ВІЗУАЛЬНА МАГІЯ
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kostex-dev&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" alt="GitHub trophies"/>
+<br/>
+
+<!-- ТУТ БУДЕ ТВОЯ ЗМІЙКА -->
+<img src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+<br/><br/>
+
+<!-- ТУТ БУДЕ 3D МІСТО (якщо налаштуєш) -->
+<img src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
@@ -227,20 +235,17 @@ A project focused on modern digital products, websites, web applications and cus
 <tr>
 <td width="55%" valign="top">
 
-## 07 / LET'S CONNECT
+## 07 / ДАВАЙ ЗНАЙОМИТИСЬ
 
-Have an interesting idea or want to collaborate?
+Маєш цікаву ідею або хочеш співпрацювати?
 
-I'm always interested in technology, development and new challenges.
+Я завжди відкритий до технологій, розробки та нових викликів.
 
 <br/>
 
-<a href="mailto:kostetskyy08@gmail.com">✉️ Email</a>
-
-<a href="https://t.me/Romchic24">✈️ Telegram</a>
-
-<a href="https://kostex.vercel.app">🌐 Website</a>
-
+<a href="mailto:kostetskyy08@gmail.com">✉️ Пошта</a> • 
+<a href="https://t.me/Romchic24">✈️ Телеграм</a> • 
+<a href="https://kostex.vercel.app">🌐 Сайт</a> • 
 <a href="https://github.com/Kostex-dev">💻 GitHub</a>
 
 </td>
@@ -256,9 +261,9 @@ I'm always interested in technology, development and new challenges.
 
 <br/>
 
-**THINK. BUILD. INNOVATE.**
+**ДУМАЙ. СТВОРЮЙ. ВДОСКОНАЛЮЙ.**
 
-<sub>© 2026 ROMAN KOSTETSKYY · KOSTEX.DEV</sub>
+<sub>© 2026 РОМАН КОСТЕЦЬКИЙ · KOSTEX.DEV</sub>
 
 <br/><br/>
 
