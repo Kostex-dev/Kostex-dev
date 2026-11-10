@@ -100,17 +100,14 @@
 </p>
 
 <div align="center">
-  <!-- Використовуємо прозорий фон, щоб картки зливалися з темною темою -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kostex-dev&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=00e0b0&icon_color=00e0b0&text_color=a1a1aa" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostex-dev&layout=compact&hide_border=true&bg_color=0b0f19&title_color=00e0b0&text_color=a1a1aa&langs_count=8" alt="Top languages"/>
+  <!-- ЦІ КАРТИНКИ ГЕНЕРУЮТЬСЯ В ТВОЄМУ РЕПОЗИТОРІЇ І НІКОЛИ НЕ ЗЛАМАЮТЬСЯ -->
+  <img width="49%" src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages"/>
   
   <br/><br/>
   
-  <img width="70%" src="https://streak-stats.demolab.com?user=Kostex-dev&theme=dark&hide_border=true&background=0b0f19&ring=00e0b0&fire=00e0b0&currStreakLabel=00e0b0&sideLabels=a1a1aa&dates=a1a1aa" alt="GitHub streak"/>
-  
-  <br/><br/>
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kostex-dev&bg_color=0b0f19&color=00e0b0&line=00e0b0&point=ffffff&area=true&area_color=00e0b0&hide_border=true&custom_title=МОЯ%20АКТИВНІСТЬ" alt="Activity graph"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"/>
 </div>
 
 <br/>
