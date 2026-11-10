@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <!-- ЛІЧИЛЬНИК ПЕРЕГЛЯДІВ З НАКРУТКОЮ НА 3000 -->
+  <!-- НАКРУТКА ПЕРЕГЛЯДІВ НА 3000 -->
   <img src="https://komarev.com/ghpvc/?username=Kostex-dev&label=PROFILE+VIEWS&color=00E0B0&style=for-the-badge&base=3000" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-success?style=for-the-badge&labelColor=0b0f19&color=00e0b0" alt="Status" />
 
@@ -38,15 +38,16 @@
         <br/>
         <b>Привіт, я Роман.</b> 👋<br/><br/>
         Я Full-Stack розробник та студент спеціальності <b>Інтернет речей (IoT)</b> у Львівській політехніці.<br/><br/>
-        Мені подобається досліджувати нові технології та створювати інтерфейси, які хочеться використовувати. Вважаю, що хороший софт — це не просто код, а насамперед досвід, який отримує людина. <br/><br/>
-        Особливу увагу приділяю екосистемі <b>Python</b> та розробці складних архітектур.
+        Мені подобається досліджувати нові технології та створювати інтерфейси, які хочеться використовувати. Вважаю, що хороший софт — це не просто код, а насамперед досвід, який отримує людина.<br/><br/>
+        Особливу увагу приділяю екосистемі <b>Python</b>, веб-розробці та створенню складних архітектур.
       </td>
       <td width="50%" valign="top">
         <br/>
         📍 <b>Локація:</b> Львів, Україна 🇺🇦<br/><br/>
         🎓 <b>Освіта:</b> Львівська політехніка<br/><br/>
         💻 <b>Фокус:</b> Python / Full-Stack / IoT<br/><br/>
-        🚀 <b>Статус:</b> Відкритий до цікавих проєктів
+        🚀 <b>Статус:</b> Відкритий до цікавих проєктів<br/><br/>
+        ☕ <b>Кава:</b> Must have
       </td>
     </tr>
   </table>
@@ -68,17 +69,23 @@
 <br/>
 
 <!-- ==================== ПРОЄКТИ ==================== -->
-<h2 align="center">Проєкти</h2>
+<h2 align="center">Мої Проєкти</h2>
+
+<p align="center">
+  <i>Від ідеї до готового продукту.</i>
+</p>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:00e0b0&height=2&width=100%" width="100%" />
   <br/><br/>
   
-  <h3>KOSTEX — Digital Products Studio</h3>
+  <h3>🚀 KOSTEX — Digital Products Studio</h3>
   
   <p><b>Перетворюю ідеї на цифрові продукти.</b></p>
   
-  <p>Мій флагманський проєкт, зосереджений на створенні сучасних веб-сайтів, застосунків та індивідуальних рішень.</p>
+  <p>Мій флагманський проєкт, зосереджений на створенні сучасних веб-сайтів, застосунків та індивідуальних рішень для бізнесу та особистих потреб.</p>
 
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&theme=dark" alt="KOSTEX tech" />
 
@@ -93,26 +100,18 @@
 
 <br/>
 
-<!-- ==================== МАСШТАБНА СТАТИСТИКА ==================== -->
-<h2 align="center">Аналітика та Статистика</h2>
-
-<p align="center">
-  <i>Повна картина моєї активності (включаючи приватні репозиторії).</i>
-</p>
-
 <div align="center">
-  <!-- ЦІ КАРТИНКИ ГЕНЕРУЮТЬСЯ В ТВОЄМУ РЕПОЗИТОРІЇ І НІКОЛИ НЕ ЗЛАМАЮТЬСЯ -->
-  <img width="49%" src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/generated/overview.svg" alt="GitHub Overview Stats"/>
-  <img width="49%" src="https://raw.githubusercontent.com/Kostex-dev/Kostex-dev/main/generated/languages.svg" alt="Most Used Languages"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:00e0b0&height=2&width=100%" width="100%" />
   <br/><br/>
   
-  <!-- ДОДАТКОВІ ГРАФІКИ ДЛЯ ВІЗУАЛЬНОЇ ВАГИ -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kostex-dev&bg_color=0b0f19&color=00e0b0&line=00e0b0&point=ffffff&area=true&area_color=00e0b0&hide_border=true&custom_title=ГРАФІК%20АКТИВНОСТІ" alt="Activity Graph"/>
+  <h3>🐍 Python & IoT Експерименти</h3>
   
-  <br/><br/>
+  <p>Різноманітні скрипти, автоматизація процесів, робота з мікроконтролерами та створення розумних пристроїв у рамках навчання на спеціальності IoT.</p>
 
-  <img width="75%" src="https://streak-stats.demolab.com?user=Kostex-dev&theme=dark&hide_border=true&background=0b0f19&ring=00e0b0&fire=00e0b0&currStreakLabel=00e0b0&sideLabels=a1a1aa&dates=a1a1aa" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=python,raspberrypi,arduino,bash&theme=dark" alt="Python IoT tech" />
+
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:00e0b0&height=2&width=100%" width="100%" />
 </div>
 
 <br/>
