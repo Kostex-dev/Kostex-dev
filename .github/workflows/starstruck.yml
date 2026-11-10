@@ -1,0 +1,31 @@
+name: Update Profile Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Оновлюється щодня
+  workflow_dispatch: # Дозволяє запустити вручну
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate StarStruck Cards
+        uses: AkulTyagi/StarStruck@main
+        with:
+          username: ${{ github.repository_owner }}
+          card: 'rpg' # Генеруємо тільки RPG-картку
+          theme: 'cyberpunk' # Тема: synthwave, dracula, tokyo-night, cyberpunk, matrix
+          output_dir: '.starstruck'
+
+      - name: Commit & Push Updated SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .starstruck/
+          git commit -m "Update StarStruck RPG Card" || exit 0
+          git push
